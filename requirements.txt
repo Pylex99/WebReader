@@ -1,0 +1,5 @@
+"pip-installable libraries for this project:"
+
+requests
+bs4
+gtts
